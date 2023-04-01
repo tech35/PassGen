@@ -1,6 +1,8 @@
 # PassGen
 A password generator in Python.
 
+*This will be getting updated over time*
+
 ----------
 
 Screenshot:
