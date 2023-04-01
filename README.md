@@ -3,7 +3,7 @@ A password generator in Python.
 
 *This will be getting updated over time*
 
-
+To install Python [click here.](https://www.python.org/downloads/)
 
 ----------
 
